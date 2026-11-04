@@ -1,2 +1,28 @@
-# 02. Identity, Access Management & Governance
-Tutaj znajdują się analizy dotyczące kontroli dostępu, zasady najmniejszego uprzywilejowania (Least Privilege) oraz standardów NIST.
+# 02. Identity & Access Management (IAM), Governance, and Security Controls
+
+## Overview
+This directory contains case studies, risk assessments, and practical scenarios focused on **Identity and Access Management (IAM)**, **Access Control Policies**, and **Security Frameworks** (such as NIST Cybersecurity Framework and NIST SP 800-53).
+
+The projects documented here reflect real-world principles of enforcing data privacy, implementing least privilege access, mitigating insider risk, and aligning business operations with industry security standards.
+
+---
+
+## Core Competencies Demonstrated
+* **Principle of Least Privilege (PoLP):** Designing, auditing, and enforcing minimal necessary permissions across organizational roles.
+* **Role-Based Access Control (RBAC):** Restricting systems access to authorized users based on defined business functions.
+* **Security Framework Mapping:** Applying **NIST CSF** (Identify, Protect, Detect, Respond, Recover) and specific **NIST SP 800-53** controls (e.g., AC-6) to business scenarios.
+* **Data Leak Mitigation & Risk Assessment:** Analyzing operational workflows to identify privilege creep, unauthorized data sharing, and policy gaps.
+
+---
+
+## Repository Index / Case Studies
+
+| Project / Exercise | Description | Key Standards & Tools | Status |
+| :--- | :--- | :--- | :--- |
+| **[Data Leak Analysis (NIST AC-6)](./google-cert-data-leak-nist-ac6/)** | Analysis of an accidental internal data leak caused by improper sharing permissions and excessive user privileges. | NIST SP 800-53 (AC-6), NIST CSF (PR.DS-5), Least Privilege | Completed |
+| *[Upcoming Case Study]* | *Reserved for future IAM, RBAC, or Governance projects.* | *TBD* | *In Progress* |
+
+---
+
+## General Takeaways
+Effective security governance relies on a balance between **technical controls** (automated revocation, strict permissions) and **policy enforcement** (regular audits, role definitions). Minimizing the attack surface begins with controlling who has access to sensitive assets.
