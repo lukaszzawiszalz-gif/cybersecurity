@@ -19,8 +19,9 @@ The objective of this analysis is to evaluate the root causes, map the incident 
 ---
 
 ## Repository Files
-* `Moja praca - Activity-Template_-Data-leak-worksheet.docx` – Completed risk assessment worksheet.
-* `Activity-Template_-Data-leak-worksheet.docx` – Original blank activity template and instructions.
+* `completed-data-leak-worksheet.docx` – Completed risk assessment and security evaluation worksheet.
+* `activity-template-data-leak-worksheet.docx` – Original blank activity template.
+* `activity-instructions.docx` – Official task overview, scenario description, and step-by-step guidelines.
 
 ---
 *Note: This practical exercise was completed as part of the **Google Cybersecurity Professional Certificate** program.*
