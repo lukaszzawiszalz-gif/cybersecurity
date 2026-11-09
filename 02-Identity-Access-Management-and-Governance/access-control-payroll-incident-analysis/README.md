@@ -20,10 +20,10 @@ This project investigates an unauthorized payroll transaction incident at a grow
 ---
 
 ## Repository Files
-* `completed-access-control-worksheet.docx` – Completed access control worksheet and investigation findings.
-* `activity-template-access-control-worksheet.docx` – Original blank activity template.
 * `accounting-exercise.xlsx` – Supporting spreadsheet containing two tabs: Event Log and Employee Directory.
 * `activity-instructions.docx` – Official task overview and scenario guidelines.
+* `activity-template-access-control-worksheet.docx` – Original blank activity template.
+* `completed-access-control-worksheet.docx` – Completed access control worksheet and investigation findings.
 
 ---
 *Note: This practical exercise was completed as part of the **Google Cybersecurity Professional Certificate** program.*
