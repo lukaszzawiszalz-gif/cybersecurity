@@ -20,6 +20,7 @@ The projects documented here reflect real-world principles of evaluating vulnera
 | Project / Exercise | Description | Key Standards & Tools | Status |
 | :--- | :--- | :--- | :--- |
 | **[USB Drive Threat & Risk Assessment](./usb-drive-threat-risk-assessment/)** | Evaluation of a physical security incident involving a found USB drive (USB baiting scenario). Analyzes data exposure risks, attacker methodologies, and outlines multi-layered defense strategies. | Endpoint Protection, EDR/DLP, Physical Security | Completed |
+| **[SQL Log Analysis & Filtering](./sql-log-analysis-and-filtering/)** | Investigation of login attempts and employee device records using SQL operators (`AND`, `OR`, `NOT`, `LIKE`) to support security operations. | SQL, MariaDB, Log Analysis, Threat Investigation | Completed |
 | *[Upcoming Case Study]* | *Reserved for future endpoint security or threat analysis projects.* | *TBD* | *In Progress* |
 
 ---
